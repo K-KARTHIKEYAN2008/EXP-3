@@ -39,7 +39,7 @@ switch2.
 •  Circuit is tested for all possible combination of switch positions.
 
 
-Direct connection:
+<b>Direct connection:</b>
 
 CIRCUIT DIAGRAM: 
 
@@ -51,7 +51,7 @@ Tabulation:1
 <img width="1600" height="820" alt="Stair case wiring(TABLE 1)" src="https://github.com/user-attachments/assets/e85b66c3-befc-432d-b0fb-1f78d5a57f61" />
 	
 
-Cross connection:
+<b>Cross connection:</b>
 
 CIRCUIT DIAGRAM:
 
